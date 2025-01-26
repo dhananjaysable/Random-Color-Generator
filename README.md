@@ -1,1 +1,1 @@
-🌈 Check out my Random Color Generator project: Random Color Generator (https://dhananjaysable370.github.io/Random-Color-Generator/). Generate endless vibrant color combinations with just a click! Perfect for designers, developers, or anyone looking for creative inspiration. Dive in and explore the magic of colors! 🎨✨
+🎨 Unleash your creativity with colors: [Click to explore](https://dhananjaysable370.github.io/Random-Color-Generator/) 🌈
