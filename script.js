@@ -8,7 +8,7 @@ const getColor = () => {
 
     document.body.style.backgroundColor = randomColorCode;
     colorCode.innerText = randomColorCode;
-    navigator.clipboard.writeText = randomColorCode;
+    navigator.clipboard.writeText(randomColorCode);
 }
 
 getColor()
